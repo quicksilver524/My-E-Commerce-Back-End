@@ -16,5 +16,16 @@
 # Open New terminal within VS code or cmdline and type first *npm run seed* and then *npm start* to initiate a seed and start the server:
 ![Picture 2(./images/ss2png)
 
-# View all products, tags, and categories:
+# Open insomnia using url source: 
+http://localhost:3006/api/tags
+http://localhost:3006/api/tags/:id (Ability to Update, Delete and or read a single tag section)
 ![Picture 3](./images/ss3.png)
+http://localhost:3006/api/products
+http://localhost:3006/api/products/:id (Ability to Update, Delete and or read a single product section)
+![Picture 4](./images/ss4.png)
+http://localhost:3006/api/categories
+http://localhost:3006/api/categories/:id (Ability to Update, Delete and or read a single category section)
+![Picture 5](./images/ss5.png)
+
+# View all products, tags, and categories:
+![Picture 6](./images/ss6.png)
