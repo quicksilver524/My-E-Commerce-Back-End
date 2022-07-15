@@ -7,16 +7,15 @@
 ######  This is an *E-Commerce* program built through *Back-End* designed to provide the user an ability to add, update, delete, and view all products within a company. 
 
 ## Walkthrough Video:
+https://user-images.githubusercontent.com/102430476/179290069-35adf8bc-94cb-42e8-8e3c-9799a0a50554.mp4
 
-
-
-# Login to your mysql server and type 'source db/schema.sql and quit:
+## Login to your mysql server and type 'source db/schema.sql and quit:
 ![Picture 1](./images/ss1.png)
 
-# Open New terminal within VS code or cmdline and type first *npm run seed* and then *npm start* to initiate a seed and start the server:
+## Open New terminal within VS code or cmdline and type first *npm run seed* and then *npm start* to initiate a seed and start the server:
 ![Picture 2](./images/ss2.png)
 
-# Open insomnia using url source: 
+## Open insomnia using url source: 
 ### Tags:
 (http://localhost:3006/api/tags) or (http://localhost:3006/api/tags/:id) Ability to Update, Delete and or read a single tag section
 ![Picture 3](./images/ss3.png)
