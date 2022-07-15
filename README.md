@@ -11,10 +11,10 @@
 
 
 # Login to your mysql server and type 'source db/schema.sql and quit:
-![Picture 1](./images/ss1.png)
+### ![Picture 1](./images/ss1.png)
 
 # Open New terminal within VS code or cmdline and type first *npm run seed* and then *npm start* to initiate a seed and start the server:
-![Picture 2(./images/ss2png)
+![Picture 2(./images/ss2.png)
 
 # Open insomnia using url source: 
 ### Tags:
