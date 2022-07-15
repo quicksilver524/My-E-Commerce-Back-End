@@ -23,10 +23,8 @@
 (http://localhost:3006/api/products) or (http://localhost:3006/api/products/:id) Ability to Update, Delete and or read a single product section
 ![Picture 4](./images/ss4.png)
 
-http://localhost:3006/api/categories
-http://localhost:3006/api/categories/:id (Ability to Update, Delete and or read a single category section)
+(http://localhost:3006/api/categories) or (http://localhost:3006/api/categories/:id) Ability to Update, Delete and or read a single category section
 ![Picture 5](./images/ss5.png)
-
 
 # View all products, tags, and categories:
 ![Picture 6](./images/ss6.png)
