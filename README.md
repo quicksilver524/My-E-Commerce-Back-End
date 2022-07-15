@@ -17,12 +17,10 @@
 ![Picture 2(./images/ss2png)
 
 # Open insomnia using url source: 
-(http://localhost:3006/api/tags)
-http://localhost:3006/api/tags/:id (Ability to Update, Delete and or read a single tag section)
+(http://localhost:3006/api/tags) or (http://localhost:3006/api/tags/:id) Ability to Update, Delete and or read a single tag section
 ![Picture 3](./images/ss3.png)
 
-http://localhost:3006/api/products
-http://localhost:3006/api/products/:id (Ability to Update, Delete and or read a single product section)
+(http://localhost:3006/api/products) or (http://localhost:3006/api/products/:id) Ability to Update, Delete and or read a single product section
 ![Picture 4](./images/ss4.png)
 
 http://localhost:3006/api/categories
